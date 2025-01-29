@@ -8,3 +8,6 @@ print(vals)
 
 a = 1
 b = 2
+
+# Cambios Camilo
+c = a**b
