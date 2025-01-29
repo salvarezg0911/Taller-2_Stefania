@@ -7,3 +7,4 @@ vals = np.random.normal(loc = miu, scale =sig, size=n)
 print(vals)
 
 a = 1
+b = 2
